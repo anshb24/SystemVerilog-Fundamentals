@@ -1,3 +1,4 @@
+//Code for transaction class is mentioned in the Instruction tab. Write a code to send transaction data between generator and driver. Also, verify the data by printing the value of data members of Generator and Driver.
 class transaction;
 bit [7:0] addr = 7'h12;
 bit [3:0] data = 4'h4;
